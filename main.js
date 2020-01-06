@@ -32,7 +32,25 @@ const words = [
     'laughter',
     'master',
     'definition',
-    'space'
+    'space',
+    'pizzas',
+    'suburban',
+    'assuming',
+    'obstinance',
+    'bioinformatics',
+    'Canadian',
+    'India',
+    'Association',
+    'structure',
+    'databases',
+    'UK',
+    'turbojet',
+    'troopers',
+    'equipment',
+    'Boeing',
+    'thrust',
+    'fuselage',
+    'propeller'
 ];
 
 //Init game
